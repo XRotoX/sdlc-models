@@ -1,2 +1,2 @@
 # sdlc-models
-This program asks you some questions to find out the best model that fits your needs
+This python program asks you some questions to find out the best SDLC model that fits your needs. It uses decision tree algorithm to give the best and minimum questions needed.
