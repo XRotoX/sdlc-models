@@ -1,0 +1,6 @@
+Model,The requirements,The details,The main task,The technologies stack,The project duration,Edits during the development cycle,Risk level,Clients feedback,Accurate product testing,The price for the changes implemented
+Waterfall SDLC,are precisely documented,are stable,is predefined,is predefined,is short,arent expected,Mid,not known,not known,is high
+Iterative SDLC,are precisely documented,may advance with the time,is predefined,is dynamic,Is large-scale,are expected,High,not known,not known,not known
+Spiral SDLC,arent precisely documented,may advance with the time,not known,is dynamic,Is large-scale,are expected,Mid/High,is provided,not known,not known
+V-shaped SDLC,are precisely documented,are stable,is predefined,is predefined,is short,arent expected,not known,isnt provided,is requiered,not known
+Agile SDLC,are precisely documented,may advance with the time,is predefined,is dynamic,not known,are expected,High,is provided,not known,is less
